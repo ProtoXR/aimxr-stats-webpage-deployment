@@ -1,0 +1,24 @@
+body {
+    font-family: 'Rajdhani', sans-serif !important;
+    text-align: center;
+    color: white;
+    background-color: #111111;
+    padding-top: 60px;
+}
+
+h1 {
+    font-size: 120px;
+    padding-bottom: 100px;
+}
+
+p {
+    font-size: 100px;
+}
+
+button {
+    width: 800px;
+    height: 200px;
+    font-size: 100px;
+    font-family: 'Rajdhani', sans-serif !important;
+    font-weight: 600;
+}
